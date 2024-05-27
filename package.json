@@ -37,7 +37,7 @@
     "@metamask/obs-store": "^7.0.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
     "@reduxjs/toolkit": "^1.9.2",
-    "@sentry/browser": "^6.19.7",
+    "@sentry/browser": "^7.113.0",
     "@sentry/react": "^7.48.0",
     "@sentry/tracing": "^6.19.7",
     "@svgr/webpack": "^5.5.0",
