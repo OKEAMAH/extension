@@ -39,7 +39,7 @@
     "@reduxjs/toolkit": "^1.9.2",
     "@sentry/browser": "^6.19.7",
     "@sentry/react": "^7.48.0",
-    "@sentry/tracing": "^6.19.7",
+    "@sentry/tracing": "^7.113.0",
     "@svgr/webpack": "^5.5.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
